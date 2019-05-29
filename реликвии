@@ -1,0 +1,968 @@
+"lang"
+{
+	"event_elysium_boss_apotheosis"												"Финал Один"
+	"event_elysium_boss_aether"													"Проявление Пространства"
+	"event_elysium_boss_aeon"													"Воплощение Времени"
+	"event_elysium_boss_genesis"												"Происхождение Жизни"
+	"event_elysium_boss_asura"													"Бог Демонов"
+	"event_elysium_boss_broodmother"											"Ткачи Судьбы"
+	"event_generic_boss_golem"													"Элементалы Земли"
+	"event_generic_boss_scarab"													"Пси Жук"
+	"event_grove_boss_troll_warlord"											"Бог Войны"
+	"event_grove_boss_axe"														"Красная Угроза"
+	"event_grove_boss_bearmaster"												"Медвежий Мастер"
+	"event_grove_boss_dragon"													"Древний Дракон"
+	"event_grove_boss_drowsa"													"Дух Леса"
+	"event_sepulcher_boss_prophet"												"Пророк"
+	"event_sepulcher_boss_undying"												"Генерал Зомби "
+	"event_sepulcher_boss_reaper"												"Смерть"
+	"event_sepulcher_boss_wraith_king"											"Повелитель Мертвых"
+	"event_solitude_boss_doom"													"Владыка Ада"
+	"event_solitude_boss_evil_core"												"Сердце Тьмы"
+	"event_solitude_boss_twin_demons"											"Демоны-Близнецы"
+	"event_solitude_boss_warlock"												"Призыватель"
+	"event_grove_boss_green_dragon"												"The Plaguespreader"
+	"event_grove_boss_greymane"													"Волк у твоей двери"
+	"event_sepulcher_boss_vile_archmage"										"Верховный Маг смерти"
+	
+	"event_elysium_combat_spiders"												"Нашествие Пауков "
+	"event_generic_combat_leshrac"												"Витые Единороги"
+	"event_generic_combat_ogres"												"Орда Людоедов"
+	"event_generic_combat_slarks"												"Грабеж"
+	"event_grove_combat_bearboys"												"Медвежий Рожон"
+	"event_grove_combat_roborage"												"Сломанная машина"
+	"event_grove_combat_robots"													"Дефектные Автоматы"
+	"event_grove_combat_roshan"													"Старая Дружба "
+	"event_grove_combat_slardar"												"Королева Slithereen"
+	"event_grove_combat_small_dragons"											"Хранители Леса"
+	"event_grove_combat_techies"												"Взрывная Машина"
+	"event_grove_combat_trees"													"Хранители Леса"
+	"event_grove_combat_wolves"													"Охотники Стаи"
+	"event_sepulcher_combat_bone_boys"											"Воины-Скелеты"
+	"event_sepulcher_combat_everything"											"Кладбищенские Мусорщики"
+	"event_sepulcher_combat_lifestealer"										"Разъяренные Пожиратели"
+	"event_sepulcher_combat_zombies"											"Живые Мертвецы"
+	"event_sepulcher_combat_vhouls"												"Убийцы Нежити"
+	"event_solitude_combat_commander"											"Демонические Генералы"
+	"event_solitude_combat_golem"												"Адские Големы"
+	"event_solitude_combat_madness_demon"										"Волна безумия"
+	"event_solitude_combat_wrath_demon"											"Волна гнева"
+	"event_solitude_combat_sloth_demon"											"Грех Вялости"
+	"event_solitude_combat_green_dragon"										"Дом гнили"
+	"event_solitude_combat_angry_wraith"										"Морок Гнева"
+	"event_solitude_combat_prophets"											"Призраки прошлого"
+	"event_solitude_combat_corrupt_drow"										"Испорченные Лесные Духи"
+	"event_elysium_combat_warlock"												"Низшие Священники"
+	"event_elysium_combat_reapers"												"Перевозчик"
+	"event_sepulcher_combat_phantoms"											"Смертоносные Дары"
+	"event_sepulcher_combat_flesh_behemoths"									"Гора плоти"
+	"event_solitude_combat_satyrs"												"Звери Тьмы"
+	"event_elysium_combat_fallen_angels"										"Падшие"
+	"event_elysium_combat_archangels"											"Домино Империи"
+	"event_elysium_combat_drowsas"												"Борьба на родной земле"
+	
+	"event_elysium_event_divine_knowledge"										"Божественное Знание"
+	"event_elysium_event_divine_knowledge_Description"							"Когда вы сталкиваетесь со странным артефактом, от него явно исходит какая-то странная сила. Как только вы его подхватите, знания устремятся в ваш мозг.\nНа каком знании вы сфокусируетесь?"
+	"event_elysium_event_divine_knowledge_option_1"								"Борьба. <font color=\"lawngreen\">[Получаете %event_knowledge_of_combat%.]</font>"
+	"event_elysium_event_divine_knowledge_option_2"								"Колдовство. <font color=\"lawngreen\">[Получаете %event_knowledge_of_magic%.]</font>"
+	"event_elysium_event_divine_knowledge_option_3"								"Обман. <font color=\"lawngreen\">[Получаете %event_knowledge_of_trickery%.]</font>"
+	"event_knowledge_of_combat"													"Благословение: Искусство Войны"
+	"event_knowledge_of_combat_Description"										"Вы получаете 25% бонуса урона."
+	"event_knowledge_of_magic"													"Благословение: Дороги Магии"
+	"event_knowledge_of_magic_Description"										"Вы получаете 25% уменьшения перезарядки."
+	"event_knowledge_of_trickery"												"Благословение: Уловки торговли"
+	"event_knowledge_of_trickery_Description"									"Вы получаете 25% уклонения."
+	
+	"event_elysium_event_old_shrine"											"Заброшенный Храм"
+	"event_elysium_event_old_shrine_Description"								"Вы встречаете старое, ветхое святилище. Что вы решите с ним делать?"
+	"event_elysium_event_old_shrine_option_1"									"Бросить 800 золота. <font color=\"yellow\">[С шансом 33% получить случайную реликвию.]</font>"
+	"event_elysium_event_old_shrine_option_2"									"Помолиться. <font color=\"yellow\">[Заменить обычную реликвию на одну более высокой редкости.]</font>"
+	"event_elysium_event_old_shrine_option_3"									"Уйти. [Ничего не происходит.]"
+	"event_elysium_event_old_shrine_Reward1"									"Ты был благословлен случайной реликвией!"
+	
+	"event_generic_event_defense_or_offense"									"Что самое Лучшее?"
+	"event_generic_event_defense_or_offense_Description"						"Таинственный голос говорит с вами, задавая простой вопрос: 'Нападёшь или защитишься?'"
+	"event_generic_event_defense_or_offense_option_1"							"Нападу. <font color=\"lawngreen\">[Получаешь %event_gift_of_damage%]</font>"
+	"event_generic_event_defense_or_offense_option_2"							"Защищусь. <font color=\"lawngreen\">[Получаешь %event_gift_of_defense%]</font>"
+	"event_generic_event_defense_or_offense_option_3"							"Ничего. <font color=\"lawngreen\">[Получаешь %event_gift_of_balance%]</font>"
+	"event_gift_of_damage"														"Благословение: Подарок Обид"
+	"event_gift_of_damage_Description"											"Ты получаешь 40 бонусного урона и 40 скорости атаки."
+	"event_gift_of_defense"														"Благословение: Подарок Защиты"
+	"event_gift_of_defense_Description"											"Ты получаешь 10 брони и 20% сопротивления магии."
+	"event_gift_of_balance"														"Благословение: Дар Равновесия"
+	"event_gift_of_balance_Description"											"Ты получаешь 10 ко всем характеристикам."
+	
+	"event_generic_event_fight_or_flight"										"Сражайся или Беги"
+	"event_generic_event_fight_or_flight_Description"							"Таинственный голос говорит с вами, информируя вас о чем-то: 'Великая награда ждет впереди, но за большую цену.'\n\nЭто командное голосование."
+	"event_generic_event_fight_or_flight_option_1"								"Искать. <font color=\"yellow\">[Сражение с элитной волной.]</font>"
+	"event_generic_event_fight_or_flight_option_2"								"Избежать. [Избежать бой.]"
+	
+	"event_generic_event_gold_or_relic"											"Одно предложение"
+	"event_generic_event_gold_or_relic_Description"								"Таинственный голос говорит с тобой, предлагая щедрость: 'Ты ищешь золото или силу?'"
+	"event_generic_event_gold_or_relic_option_1"								"Власть. <font color=\"lawngreen\">[Получить случайную реликвию]</font>"
+	"event_generic_event_gold_or_relic_option_2"								"Золото. <font color=\"lawngreen\">[Получить 1500 золота.]</font>"
+	"event_generic_event_gold_or_relic_option_3"								"Рискнуть. <font color=\"yellow\">[20% шанс получить оба.]</font>"
+	
+	"event_generic_event_four_of_a_kind"										"Четыре Вида"
+	"event_generic_event_four_of_a_kind_Description"							"Таинственный голос говорит с тобой, предлагая сделку.: 'Одолей моих лучших четырех чемпионов и я осыплю вас богатствами.'"
+	"event_generic_event_four_of_a_kind_option_1"								"Сразиться. [Сразиться со случайными боссами. Появление четырёхкратное, награда четырёхкратная]"
+	"event_generic_event_four_of_a_kind_option_2"								"Избежать. [Ничего не происходит]"
+	
+	"event_generic_event_protect"												"Защита Тотема"
+	"event_generic_event_protect_Description"									"Вы сталкиваетесь со странным тотемом, он кажется важным. При прикосновении к нему земля сильно дрожит, и вы видите, как появляются монстры!"
+	"event_generic_event_protect_option_1"										"Сразиться! [Начать бой.]"
+	"event_generic_event_protect_Reward1"										"После победы над Ордой вы почувствуете прилив сил! Вы получили 2 очка атрибутов!."
+	"event_generic_event_protect_Reward2"										"После победы над Ордой, вы смотрите, что разбит тотем на куски. Ну что ж..."
+	
+	"event_generic_event_surge_of_knowledge"									"Всплеск Знаний"
+	"event_generic_event_surge_of_knowledge_Description"						"Во время путешествия, вы вдруг приходите к блестящей реализации! Что ты придумал?"
+	"event_generic_event_surge_of_knowledge_option_1"							"Согласованность является ключевым фактором! <font color=\"lawngreen\">[Получаешь %event_surge_of_knowledge_damage%]</font>"
+	"event_generic_event_surge_of_knowledge_option_2"							"Пережить и приспособиться! <font color=\"lawngreen\">[Получаешь %event_surge_of_knowledge_endurance%]</font>"
+	"event_generic_event_surge_of_knowledge_option_3"							"Жадность-это хорошо! <font color=\"lawngreen\">[Получаешь %event_surge_of_knowledge_greed%]</font>"
+	"event_surge_of_knowledge_damage"											"Благословение: Вдохновение Силы"
+	"event_surge_of_knowledge_damage_Description"								"Вы получаете 50 базового урона."
+	"event_surge_of_knowledge_endurance"										"Благословение: Вдохновение на Выносливость"
+	"event_surge_of_knowledge_endurance_Description"							"Вы получаете 350 здоровья, 3 брони и 10% магического сопротивления."
+	"event_surge_of_knowledge_greed"											"Благословение: Вдохновение от Жадност"
+	"event_surge_of_knowledge_greed_Description"								"Вы получаете на 15% больше бонусного золота."
+	
+	"event_grove_event_cut_the_trees"											"Мистические Деревья"
+	"event_grove_event_cut_the_trees_Description"								"Во время путешествия, вы натыкаетесь на участок деревьев с мистическими силами. Это даст хорошее количество золота вашей команде, но есть риском разозлить лесных духов.\nЧто ты предпимешь?\n[Это событие можно повторить, повторяя его увеличивается сложность боя]\n\nЭто событие является командным голосованием."
+	"event_grove_event_cut_the_trees_option_1"									"Срубить несколько деревьев! <font color=\"red\">[%event_cut_trees%]</font>"
+	"event_grove_event_cut_the_trees_option_2"									"Уйти. [Ничего не произойдёт]"
+	"event_cut_trees"															"Получить 250 золота, шанс начать бой"
+	"event_cut_trees_Description"												"Это событие повторяется. Вырубка деревьев увеличит сложность боя, если это произойдет. Шанс 25%. Как только начнется бой, вы должны его выиграть."
+	
+	"event_grove_event_help_treant"												"Раненый Треант"
+	"event_grove_event_help_treant_Description"									"Во время путешествия, вы встретите испуганного, раненого треанта, бегущего за своей жизнью. Он умоляет о помощи.\n\nЭто командное голосование."
+	"event_grove_event_help_treant_option_1"									"Помочь ему! <font color=\"yellow\">[%event_treant_fight%]</font>"
+	"event_grove_event_help_treant_option_2"									"Игнорировать его. [Ничего не произойдёт]"
+	"event_grove_event_help_treant_Reward1"										"Победив своих преследователей, треант благословляет вас. Вы получаете 25 регенерации здоровья для следующих 3 раундов."
+	"event_treant_fight"														"Сразиться"
+	"event_treant_fight_Description"											"Вам нужно будет столкнуться с различными дикими врагами, победа даст вам награды."
+	
+	"event_grove_event_the_river"												"Река"
+	"event_grove_event_the_river_Description"									"Во время путешествия, вы попадаете через чистую реку, это было бы хорошее место для отдыха. Что вы делаете во время отдыха?"
+	"event_grove_event_the_river_option_1"										"Выпить. <font color=\"lawngreen\">[Получаешь %event_river_regeneration%.]</font>"
+	"event_grove_event_the_river_option_2"										"Искупаться. <font color=\"lawngreen\">[Получаешь %event_river_resistance%.]</font>"
+	"event_grove_event_the_river_option_3"										"Поплавать. <font color=\"lawngreen\">[Получаешь %event_river_speed%.]</font>"
+	"event_river_regeneration"													"Благословение: Жизненная сила реки"
+	"event_river_regeneration_Description"										"Вы получаете 5 регенерации здоровья."
+	"event_river_resistance"													"Благословение: Речной щит"
+	"event_river_resistance_Description"										"Вы получаете 10% магического сопротивления."
+	"event_river_speed"															"Благословение: Течение реки"
+	"event_river_speed_Description"												"Вы получаете 15 скорости передвижения."
+	
+	"event_grove_event_well_of_youth"											"Колодец Молодости"
+	"event_grove_event_well_of_youth_Description"								"Во время путешествия, вы натыкаетесь на странный колодец, в нем вырезаны различные руны. Что вы предпримите?"
+	"event_grove_event_well_of_youth_option_1"									"Выпить. <font color=\"yellow\">[Сбросить очки способностей.]</font>"
+	"event_grove_event_well_of_youth_option_2"									"Игнорировать. [Ничего не произойдёт]"
+	
+	"event_sepulcher_event_graverobber"											"Грабитель Могил"
+	"event_sepulcher_event_graverobber_Description"								"Во время путешествия, вы столкнетесь с грабителем могил. Он просит вас о помощи, но рыть могилы в этом месте не кажется хорошей идеей. Что вы предпримите?"
+	"event_sepulcher_event_graverobber_option_1"								"Помочь ему. <font color=\"red\">[Страдать вместе %event_graverobbers_sin%]</font>"
+	"event_sepulcher_event_graverobber_option_2"								"Игнорировать его. [Ничего не произойдёт]"
+	"event_graverobbers_sin"													"Проклятье: Грехи Грабителя Могил"
+	"event_graverobbers_sin_Description"										"Вы потеряете все оставшиеся жизни, но получите два варианта из 3 реликвий. Один выбор всегда проклятый."
+	
+	"event_sepulcher_event_the_horde"											"Банда"
+	"event_sepulcher_event_the_horde_Description"								"Во время путешествия, вы попали в засаду и внезапно окружены массивной ордой врагов. Выживите в Орде!"
+	"event_sepulcher_event_the_horde_option_1"									"Сразиться! [Начать бой.]"
+	"event_sepulcher_event_the_horde_Reward1"									"После победы над Ордой, вы чувствуете себя сильнее, чем раньше, вы получили 10 бонусных статов!"
+	
+	"event_sepulcher_event_tombstone"											"Надгробие под угрозой Исчезновения"
+	"event_sepulcher_event_tombstone_Description"								"Во время путешествия, вы сталкиваетесь с духом, который просит вас о помощи с его нападающими. Каждый день мусорщики пытаются атаковать его надгробие, что не даёт ему найти покой. Поможешь ли ты духу?\n\nЭто командное голосование."
+	"event_sepulcher_event_tombstone_option_1"									"Помочь ему. <font color=\"yellow\">[%event_tombstone_fight%]</font>"
+	"event_sepulcher_event_tombstone_option_2"									"Игнорировать его. [Ничего не произойдёт]"
+	"event_sepulcher_event_tombstone_Reward1"									"Надгробие, будучи полностью невредимым, очень радует духа, вы получаете одну дополнительную жизнь и 30% уклонение для следующих 3 раундов!"
+	"event_sepulcher_event_tombstone_Reward2"									"Дух благословляет вас, так как его надгробие в основном нетронуто. Вы получаете 30% уклонение для следующих 3 боев."
+	"event_sepulcher_event_tombstone_Reward3"									"Могильный камень был разбит, к сожалению, твоя борьба была напрасной.."
+	"event_tombstone_fight"														"Сразиться"
+	"event_tombstone_fight_Description"											"Вам нужно будет защитить надгробие от зомби, сохраняя его живым, вы получите награды."
+	
+	"event_solitude_event_demon_of_avarice"										"Демон Алчности"
+	"event_solitude_event_demon_of_avarice_Description"							"Во время путешествия, вы сталкиваетесь с Демоном Алчности, они известны тем, что несут огромное количество золота в своих щеках, вы уверены, что избиение заставит его упасть, ИЗБИТЬ!"
+	"event_solitude_event_demon_of_avarice_option_1"							"Ударить! [Получить 2 золота за каждый урон.]"
+	
+	"event_solitude_event_crossroads"											"Пересечение"
+	"event_solitude_event_crossroads_Description"								"Во время путешествия, вы сталкиваетесь с перекрестком, в центре которого стоит мрачная фигура. Он предлагает вам сделку, он даст вам власть, хотя и ценой."
+	"event_solitude_event_crossroads_option_1"									"Согласиться. <font color=\"red\">[Страдать вместе %event_crossroads_deal%]</font>"
+	"event_solitude_event_crossroads_option_2"									"Игнорировать. [Ничего не произойдёт]"
+	"event_crossroads_deal"														"Проклятье: Сделка на перекрестке"
+	"event_crossroads_deal_Description"											"Вы теряете 20% своего максимального здоровья, но получаете случайную реликвию."
+	
+	"event_solitude_event_cursed_glove"											"Перчатка Мидаса"
+	"event_solitude_event_cursed_glove_Description"								"Во время путешествия, вы встречаете перчатку на золотом алтаре, вы верите, что это перчатка Мидаса."
+	"event_solitude_event_cursed_glove_option_1"								"Очистить. <font color=\"yellow\">[Удалеет предмет в первом слоте. Получаете золото, равное его стоимости.]</font>"
+	"event_solitude_event_cursed_glove_option_2"								"Игнорировать. [Ничего не произойдёт]"
+	
+	"event_solitude_event_devil_deal"											"Проклятая Сделка"
+	"event_solitude_event_devil_deal_Description"								"Во время путешествия, вы встречаете торговца. Он спрашивает тебя, что ты ищешь в жизни."
+	"event_solitude_event_devil_deal_option_1"									"Простоту. <font color=\"lawngreen\">[Получить обычную реликвию]</font>"
+	"event_solitude_event_devil_deal_option_2"									"Силу. <font color=\"red\">[Страдать вместе %event_deal_of_power%]</font>"
+	"event_solitude_event_devil_deal_option_3"									"Специализацию. <font color=\"yellow\">[Лешаетесь случайной реликвии, но получите новую редкую реликвию.]</font>"
+	"event_deal_of_power"														"Проклятье: Бороться за власть"
+	"event_deal_of_power_Description"											"Вы теряете 30% своего максимального здоровья, но получаете случайную необычную реликвию."
+	
+	"event_grove_event_a_stick"													"Палка"
+	"event_grove_event_a_stick_Description"										"Во время путешествия, вы находите палку."
+	"event_grove_event_a_stick_option_1"										"Подобрать её. <font color=\"lawngreen\">[Получаете реликвию %relic_stick%.]</font>"
+	"event_grove_event_a_stick_option_2"										"Выбросить её. <font color=\"lawngreen\">[Получаете %event_blessing_of_stick%.]</font>"
+	"event_Благословение_of_stick"													"Благословение: Бросить палку"
+	"event_Благословение_of_stick_Description"										"Это благословение дает вам 35 урона, скорость атаки и скорость передвижения."
+	
+	"event_grove_event_tree_of_life"											"Древо Жизни"
+	"event_grove_event_tree_of_life_Description"								"Во время путешествия, вы находите огромное дерево с фруктами."
+	"event_grove_event_tree_of_life_option_1"									"Съесть фрукты. <font color=\"lawngreen\">[Получаете %event_tree_blessing_of_life%.]</font>"
+	"event_grove_event_tree_of_life_option_2"									"Медитировать. <font color=\"lawngreen\">[Получаете %event_tree_blessing_of_wisdom%.]</font>"
+	"event_grove_event_tree_of_life_option_3"									"Ухаживать за деревом. <font color=\"lawngreen\">[Получаете %event_tree_blessing_of_valor%.]</font>"
+	"event_tree_blessing_of_life"												"Благословение: Всплеск жизни Дерева"
+	"event_tree_blessing_of_life_Description"									"Это благословение даёт 400 здоровья и 5 регенерации здоровья."
+	"event_tree_blessing_of_wisdom"												"Благословение: Всплеск мудрости Дерева"
+	"event_tree_blessing_of_wisdom_Description"									"Это благославение даёт вам 15 интеллекта и 20% усиления заклинаний."
+	"event_tree_blessing_of_valor"												"Благословение: Всплеск знаний Дерева"
+	"event_tree_blessing_of_valor_Description"									"Это благословение даёт +8 ко всем характеристикам."
+	
+	"event_grove_event_bloom_crystal"											"Кристалл Цветения"
+	"event_grove_event_bloom_crystal_Description"								"Во время путешествия, вы встретите странные, похожие на цветы кристаллы."
+	"event_grove_event_bloom_crystal_option_1"									"Съесть. <font color=\"lawngreen\">[Получаете %event_bloom_harvest%.]</font>"
+	"event_grove_event_bloom_crystal_option_2"									"Собрать. <font color=\"lawngreen\">[Получаете 800 gold.]</font>"
+	"event_grove_event_bloom_crystal_option_3"									"Сломать. <font color=\"yellow\">[50% chance random relic.]</font>"
+	"event_bloom_harvest"														"Благословение: Урожай Блума"
+	"event_bloom_harvest_Description"											"Это благословение даёт 500 здоровья и 8 регенерации здоровья."
+	
+	"event_grove_event_berries"													"Неизвестные Ягоды"
+	"event_grove_event_berries_Description"										"Во время путешествия, вы встретите куст с фиолетовыми ягодами."
+	"event_grove_event_berries_option_1"										"Съесть. <font color=\"yellow\">[Получаете %event_poison_hangover%]</font>"
+	"event_grove_event_berries_option_2"										"Сварить. <font color=\"red\">[Получаете %event_noxious_potion%]</font>"
+	"event_grove_event_berries_option_3"										"Игнорировать. [Ничего не произойдёт]"
+	"event_poison_hangover"														"Проклятье: Ядовитое Похмелье"
+	"event_poison_hangover_Description"											"Вы потеряете 800 максимальное здоровье за 3 раунда или до смерти, но если вы не умрете под этим проклятием, Вы получите 400 максимального здоровья, когда оно истечёт."
+	"event_noxious_potion"														"Проклятье: Ядовитое Зелье"
+	"event_noxious_potion_Description"											"Вы навсегда потеряете 400 максимального здоровья, но получаете 2 очков навыков"
+	
+	"event_sepulcher_event_unmarked_grave"										"Безымянная Могила"
+	"event_sepulcher_event_unmarked_grave_Description"							"Во время путешествия, вы встречаете неглубокую могилу."
+	"event_sepulcher_event_unmarked_grave_option_1"								"Раскопать. <font color=\"red\">[Получаете relic: %relic_rotting_flesh%, всё исцеление уменьшено на 50%]</font>"
+	"event_sepulcher_event_unmarked_grave_option_2"								"Уйти. [Ничего не произойдёт.]"
+	
+	"event_sepulcher_event_cursed_cemetary"										"Проклятое Кладбище"
+	"event_sepulcher_event_cursed_cemetary_Description"							"Во время путешествия, вы встречаете старое кладбище. Воздух тяжелый, и тебе не по себе.\n\nЭто командное голосование."
+	"event_sepulcher_event_cursed_cemetary_option_1"							"Очистить. <font color=\"yellow\">[%event_cursed_cemetary_fight%.]</font>"
+	"event_sepulcher_event_cursed_cemetary_option_2"							"Уйти. [Ничего не произойдёт.]"	
+	"event_cursed_cemetary_fight"												"Сражаться"
+	"event_cursed_cemetary_fight_Description"									"Вы будете сражаться с боссами нежити, получите 2 случайных реликвии после победы."
+	
+	"event_sepulcher_event_blighted_land"										"Проклятая Земля"
+	"event_sepulcher_event_blighted_land_Description"							"Во время путешествия, вы сталкиваетесь с бесплодным участком жизни. Приложив достаточно усилий, вы, возможно, сможете вернуть его к жизни."
+	"event_sepulcher_event_blighted_land_option_1"								"Очистить. <font color=\"yellow\">[Получаете %event_blighted_land_cleanse%]</font>"
+	"event_sepulcher_event_blighted_land_option_2"								"Отдохнуть. <font color=\"yellow\">[Получаете %event_blighted_land_rest%]</font>"
+	"event_sepulcher_event_blighted_land_option_3"								"Уйти. [Ничего не произойдёт.]"
+	"event_blighted_land_cleanse"												"Проклятье: Призрачная Жизненность"
+	"event_blighted_land_cleanse_Description"									"Вы получаете 1500 здоровья, но все исцеление уменьшается на 20%"
+	"event_blighted_land_rest"													"Проклятье: Призрачный рост"
+	"event_blighted_land_rest_Description"										"Вы получаете +18 ко всем характеристикам, но все исцеление уменьшается на 20%"
+	
+	"event_sepulcher_event_withered_tree"										"Засохшее Дерево"
+	"event_sepulcher_event_withered_tree_Description"							"Во время путешествия, вы встретите засохшее дерево. Он ощущается сильным, но каким-то образом он ощущается... Неправильный."
+	"event_sepulcher_event_withered_tree_option_1"								"Сжечь. <font color=\"lawngreen\">[Получаете %event_withered_tree_burn%.]</font>"
+	"event_sepulcher_event_withered_tree_option_2"								"Разрубить. <font color=\"lawngreen\">[Получаете 500 gold.]</font>"
+	"event_withered_tree_burn"													"Благословение: Высохшие Благовонья"
+	"event_withered_tree_burn_Description"										"Вы получаете на 25% бонусного опыта для следующих 3 раундов."
+	
+	"event_sepulcher_event_ominous_tome"										"Зловещий Фолиант"
+	"event_sepulcher_event_ominous_tome_Description"							"Во время путешествия, вы входите в заброшенную часовню, внутри которой вы сталкиваетесь с зловещей книгой с переплетами, которые, похоже, сделаны из кожи.\n\nЭто командное голосование."
+	"event_sepulcher_event_ominous_tome_option_1"								"Прочесть. <font color=\"yellow\">[Получаете %event_ominous_tome_read%]</font>"
+	"event_sepulcher_event_ominous_tome_option_2"								"Порвать. <font color=\"red\">[%event_ominous_tome_destroy%]</font>"
+	"event_sepulcher_event_ominous_tome_option_3"								"Игнорировать. [Ничего не произойдёт.]"
+	"event_ominous_tome_read"													"Проклятье: Сверхъестественное Знание"
+	"event_ominous_tome_read_Description"										"Вся команда получает +1 к Жизни и +80 урона от атаки, но снижает максимальное здоровье на 600."
+	"event_ominous_tome_destroy"												"Сражаться
+	"event_ominous_tome_destroy_Description"									"Сражайтесь с боссами нежити и элитами, после победы получите выбор из 3 случайных реликвий."
+	
+	"event_sepulcher_event_ruined_cathedral"									"Разрушенный Собор"
+	"event_sepulcher_event_ruined_cathedral_Description"						"Во время путешествия, вы найдете разрушенный собор. Ты чувствуешь зловоние нежити внутри.\n\nЭто командное голосование."
+	"event_sepulcher_event_ruined_cathedral_option_1"							"Молиться. <font color=\"lawngreen\">[Получаете %event_ruined_cathedral_pray%]</font>"
+	"event_sepulcher_event_ruined_cathedral_option_2"							"Очищение. <font color=\"red\">[%event_ruined_cathedral_purge%]</font>"
+	"event_ruined_cathedral_pray"												"Благословение: Пустая Молитва"
+	"event_ruined_cathedral_pray_Description"									"Вся команда получает 2 регенерации здоровья и 5% сопротивления магии."
+	"event_ruined_cathedral_purge"												"Сражаться"
+	"event_ruined_cathedral_purge_Description"									"Сражайтесь с боссами и элитами нежити, после победы получите случайную и необычную реликвию."
+	
+	"event_sepulcher_event_plague_doctor"										"Чумной Доктор"
+	"event_sepulcher_event_plague_doctor_Description"							"Во время путешествия, вы встречаете врача чумы. Они предлагают вам странную смесь."
+	"event_sepulcher_event_plague_doctor_option_1"								"Выпить. <font color=\"red\">[Получаете %event_plague_doctor_drink%]</font>"
+	"event_sepulcher_event_plague_doctor_option_2"								"Отказаться. [Ничего не произойдёт.]"
+	"event_plague_doctor_drink"													"Проклятье: Нечестивая Смесь"
+	"event_plague_doctor_drink_Description"										"Вы получаете +80 урона, + 32% усиления заклинаний и 20 скорости движения, но теряете 10 брони и 25% магического сопротивления."
+	
+	"event_sepulcher_event_abandoned_shack"										"Заброшенная Лачуга"
+	"event_sepulcher_event_abandoned_shack_Description"							"Во время путешествия, вы сталкиваетесь с заброшенной лачугой. Чем вы занимаетесь?\n\nЭто командное голосование."
+	"event_sepulcher_event_abandoned_shack_option_1"							"<font color=\"yellow\">%event_abandoned_shack_investigate%.</font>"
+	"event_sepulcher_event_abandoned_shack_option_2"							"Игнорировать."
+	"event_abandoned_shack_investigate"											"Исследовать"
+	"event_abandoned_shack_investigate_Description"								"Есть шанс сразиться с боссами и элитами нежити и отдельный шанс найти золото или реликвии."
+	"event_sepulcher_event_abandoned_shack_Reward1"								"Вы нашли 500 золотых!"
+	"event_sepulcher_event_abandoned_shack_Reward2"								"Вы нашли реликвию!"
+	"event_sepulcher_event_abandoned_shack_Reward3"								"Во время обыска вы предупредили несколько сущностей о своем присутствии!"
+	"event_sepulcher_event_abandoned_shack_Reward4"								"Во время обыска вы предупредили плачущую Банши о своем присутствии!"
+	
+	"event_elysium_event_silent_guardian"										"Молчаливый Страж"
+	"event_elysium_event_silent_guardian_Description"							"Во время путешествия, вы находите странную каменную статую. Тебе хочется прикоснуться к нему.."
+	"event_elysium_event_silent_guardian_option_1"								"Прикоснуться. <font color=\"red\">[ВНИМАНИЕ: Становись %event_Благословение_of_ethereal%]</font>"
+	"event_elysium_event_silent_guardian_option_2"								"Игнорировать. [Ничего не произойдёт.]"
+	"event_blessing_of_ethereal"												"Эфир"
+	"event_Бblessing_of_ethereal_Description"									"Эфир РАЗОРУЖАЕТ ВАС, НЕ МОЖЕТЕ АТАКОВАТЬ, давая иммунитет к физическому урону и увеличивая магический урон на 100%."
+	
+	"event_elysium_event_angelic_cache"											"Ангельский Тайник"
+	"event_elysium_event_angelic_cache_Description"								"Во время путешествия, вы находите спрятанный сундук, в нем странные безделушки. Что ты возьмешь?"
+	"event_elysium_event_angelic_cache_option_1"								"Флакон. <font color=\"lawngreen\">[Получаете реликвию: %relic_angelic_water%]</font>"
+	"event_elysium_event_angelic_cache_option_2"								"Бутылку. <font color=\"lawngreen\">[Получаете реликвию: %relic_breath_of_life%]</font>"
+	"event_elysium_event_angelic_cache_option_3"								"Перо. <font color=\"lawngreen\">[Получаете реликвию: %relic_seraphims_feather%]</font>"
+	
+	"event_elysium_event_safe_haven"											"Убежище"
+	"event_elysium_event_safe_haven_Description"								"Во время путешествия, вы находите небольшую поляну, дающую вам время для отдыха. Как ты проведёшь время?"
+	"event_elysium_event_safe_haven_option_1"									"Отдохнуть. <font color=\"lawngreen\">[Получаете %event_safe_haven_rest%.]</font>"
+	"event_elysium_event_safe_haven_option_2"									"Тренировка. <font color=\"lawngreen\">[Получаете %event_safe_haven_train%.]</font>"
+	"event_elysium_event_safe_haven_option_3"									"Исследовать. <font color=\"lawngreen\">[Получаете %event_safe_haven_study%.]</font>"
+	"event_safe_haven_rest"														"Благословение: Отдых"
+	"event_safe_haven_rest_Description"											"Вы получаете 500 максимального здоровья."
+	"event_safe_haven_train"													"Благословение: Тренировка"
+	"event_safe_haven_train_Description"										"Вы получаете 30 базового урона и скорости атаки ."
+	"event_safe_haven_study"													"Благословение: Исследования"
+	"event_safe_haven_study_Description"										"Вы получаете 350 максимальной маны и 15% усиление заклинаний."
+	
+	"event_solitude_event_demon_shrine"											"Повреждённый Храм"
+	"event_solitude_event_demon_shrine_Description"								"Во время путешествия, вы натыкаетесь на святилище, явно испорченное демоническими силами.\n\nЭто командное голосование."
+	"event_solitude_event_demon_shrine_option_1"								"Помолится. <font color=\"yellow\">[Получаете %event_demon_shrine_pray%.]</font>"
+	"event_solitude_event_demon_shrine_option_2"								"Разрушить. <font color=\"red\">[%event_demon_shrine_destroy%.]</font>"
+	"event_solitude_event_demon_shrine_option_3"								"Уйти. [Ничего не произойдёт.]"
+	"event_demon_shrine_pray"													"Проклятье: Испорченный Жадностью"
+	"event_demon_shrine_pray_Description"										"Вы получаете 2000 золота, но теряете 10 брони и 20% магического сопротивления."
+	"event_demon_shrine_destroy"												"Сражаться"
+	"event_demon_shrine_destroy_Description"									"Сражайтесь с демоническими элитами, после победы получите одну обычную и одну необычную реликвию."
+	"event_solitude_event_demon_shrine_Reward1"									"После молитвы ты чувствуешь, как твои карманы наполняются золотом.."
+	
+	"event_solitude_event_cultist_ritual"										"Культовый Ритуал"
+	"event_solitude_event_cultist_ritual_Description"							"Во время путешествия, вы видите несколько культистов, поющих заклинания на расстоянии.\n\nЭто командное голосование."
+	"event_solitude_event_cultist_ritual_option_1"								"Остановить их. <font color=\"red\">[%event_cultist_ritual_stop%]</font>"
+	"event_solitude_event_cultist_ritual_option_2"								"Присоединиться к ним. <font color=\"yellow\">[Получаете %event_cultist_ritual_join%]</font>"
+	"event_solitude_event_cultist_ritual_option_3"								"Избегать их. [Ничего не произойдёт.]"
+	"event_cultist_ritual_join"													"Проклятье: Испорченный Дар"
+	"event_cultist_ritual_join_Description"										"Вы получаете 2 случайные редкие реликвии, но вы больше не можете исцелица."
+	"event_cultist_ritual_stop"													"Сражаться"
+	"event_cultist_ritual_stop_Description"										"Сражайтесь с несколькими Колдунами, после победы получайте увеличенное золото и опыт."
+	"event_solitude_event_cultist_ritual_Reward1"								"Культисты разделяют добычу с вами, предоставляя вам 2 проклятые реликвии."
+	
+	"event_solitude_event_lake_of_lava"											"Озеро Лавы"
+	"event_solitude_event_lake_of_lava_Description"								"Во время путешествия, вы нашли массивное озеро лавы, которое преграждает ваши путешествия."
+	"event_solitude_event_lake_of_lava_option_1"								"Перепрыгнуть. <font color=\"lawngreen\">[Получаете %event_lake_of_lava_vault%.]</font>"
+	"event_solitude_event_lake_of_lava_option_2"								"Обойти. <font color=\"lawngreen\">[Получаете %event_lake_of_lava_path%.]</font>"
+	"event_solitude_event_lake_of_lava_option_3"								"Переплыть. <font color=\"lawngreen\">[Получаете %event_lake_of_lava_swim%.]</font>"
+	"event_lake_of_lava_vault"													"Благословение: Ловкость лавы"
+	"event_lake_of_lava_vault_Description"										"Вы получаете 10 ловкости."
+	"event_lake_of_lava_path"													"Благословение: Интеллект лавы"
+	"event_lake_of_lava_path_Description"										"Вы получаете 15 интелекта."
+	"event_lake_of_lava_swim"													"Благословение: Конституция лавы"
+	"event_lake_of_lava_swim_Description"										"Вы получаете 12 силы."
+	
+	"event_solitude_event_ominous_pentagram"									"Зловещии Пентаграммы"
+	"event_solitude_event_ominous_pentagram_Description"						"Во время путешествия, вы сталкиваетесь с пентаграммой на земле. Глифы шипят от силы.\n\nЭто командное голосование."
+	"event_solitude_event_ominous_pentagram_option_1"							"Прикоснуться. <font color=\"red\">[%event_ominous_pentagram_touch%.]</font>"
+	"event_solitude_event_ominous_pentagram_option_2"							"Развеять. <font color=\"yellow\">[%event_ominous_pentagram_dispel%.]</font>"
+	"event_solitude_event_ominous_pentagram_option_3"							"Убежать. [Ничего не произойдёт?]"
+	"event_ominous_pentagram_touch"												"ОСТОРОЖНО: БОЙ"
+	"event_ominous_pentagram_touch_Description"									"Сражайтесь с могущественным Асурой. Увеличение выгоды на гранта, когда били. Вы получаете 15 ко всем характеристикам при прикосновении к нему."
+	"event_ominous_pentagram_dispel"											"Сражаться"
+	"event_ominous_pentagram_dispel_Description"								"Сражайся с Асурой, Богом демонов. Избиение его даст награды."
+
+	"event_solitude_event_demonic_horde"										"Демоническая Орда"
+	"event_solitude_event_demonic_horde_Description"							"Во время путешествия, вы попали в засаду и внезапно окружены массивной ордой врагов. Выживите в Орде!"
+	"event_solitude_event_demonic_horde_option_1"								"Сражаться! [Начать бой.]"
+	"event_solitude_event_demonic_horde_Reward1"								"После победы над Ордой, вы чувствуете себя сильнее, чем раньше, вы получаетеed 30 скорость движения и 500 маны!"
+	
+	"event_solitude_event_black_ritual"											"Черный Ритуал"
+	"event_solitude_event_black_ritual_Description"								"Во время путешествия, вы столкнетесь с черепом и костями, сопровождаемыми различными глифами и кровью. В середине ты видишь свечу.."
+	"event_solitude_event_black_ritual_option_1"								"Взять свечу. <font color=\"yellow\">[Получить %relic_ritual_candle%, но потеряешь все свое текущее золото.]</font>"
+	"event_solitude_event_black_ritual_option_2"								"Причастица. <font color=\"yellow\">[Получить %relic_forbidden_contract%, но потеряешь все свое текущее золото.]</font>"
+	"event_solitude_event_black_ritual_option_3"								"Сломать. <font color=\"yellow\">[Получить 3 обычные реликвии, но потеряешь все свое текущее золото.]</font>"
+	"event_solitude_event_black_ritual_option_4"								"Уйти. <font color=\"green\">[Ничего не произойдёт.]</font>"
+	
+	"event_elysium_event_fountain_of_purity"									"Фонтан Чистоты"
+	"event_elysium_event_fountain_of_purity_Description"						"Во время путешествия, вы найдете питьевой фонтан, он излучает успокаивающую ауру."
+	"event_elysium_event_fountain_of_purity_option_1"							"Выпить. <font color=\"green\">[Убрать все проклятия]</font>"
+	"event_elysium_event_fountain_of_purity_option_2"							"Благословлять. <font color=\"green\">[Получишь %relic_ofuda%]</font>"
+	"event_elysium_event_fountain_of_purity_option_3"							"Молиться. <font color=\"green\">[Получишь %event_fountain_of_purity_pray%]</font>"
+	"event_fountain_of_purity_pray"												"Благословение чистоты"
+	"event_fountain_of_purity_pray_Description"									"Получаете +5 ко всем атрибутам."
+	
+	"ascension_Generic_Description"												"По возрастанию перезапускает игру с текущими предметами, реликвиями и уровнями на основе большинства голосов.\nКаждое восхождение увеличивает скорость атаки противника, шанс крита, броню и урон."
+	"ascension_1_Description"													"A1: Все враги будут элитами. Элиты больше не будут давать реликвии."
+	"ascension_2_Description"													"A2: Боссы больше не роняют реликвии. Боссы получают 25% сопротивление статусу."
+	"ascension_3_Description"													"A3: Ваши исцеления будет уменьшена на 50%. Боссы получают 50% сопротивление статусу."
+	"ascension_4_Description"													"A4: Все враги будут иметь максимальное и летающее передвижение. Боссы получают 75% сопротивление статусу."
+	"generic_yes"																"Да"
+	"generic_no"																"Нет"
+	"ascension_overhead"														"Вызвыситься?"
+	
+
+	// PANORAMA
+	"QuestDifficultyText"											"СЛОЖНОСТЬ: {s:difficulty}"
+	"QuestRoundText"												"{s:roundText} - {s:roundNumber}"
+	"QuestLifeText"													"ЖИЗНЕЙ: {d:lives} ИЗ {d:maxLives}"
+	"QuestPrepText"													"ВРЕМЕНИ НА ПОДГОТОВКУ ОСТАЛОСЬ: {d:prepTime}"
+	
+	"SKILL_TREE_OFFENSE"											"Нападение"
+	"SKILL_TREE_DEFENSE"											"Защита"
+	"SKILL_TREE_OTHER"												"Другое"
+	"SKILL_TREE_UNIQUE"												"Уникальное"
+	
+	"STATS_TYPE_MOVE_SPEED"											"Скорость Передвижения"
+	"STATS_TYPE_MANA"												"Мана"
+	"STATS_TYPE_MANA_REGEN"											"Регенирация Маны"
+	"STATS_TYPE_HEAL_AMP"											"Усиление исциления"
+	"STATS_TYPE_ALL_STATS"											"Все характеристики"
+	
+	"STATS_TYPE_MOVE_SPEED_Description"								"Увеличивает базовую скорость передвижения."
+	"STATS_TYPE_MANA_Description"									"Увеличивает ваш максимальный запас маны."
+	"STATS_TYPE_MANA_REGEN_Description"								"Увеличивает базовую скорость восстановления маны ."
+	"STATS_TYPE_HEAL_AMP_Description"								"Увеличивает все исцеления, исходящие от вас или входящие к вам. Когда своя регенирация здоровья, применяется только один раз."
+	"STATS_TYPE_ALL_STATS_Description"								"Дает вам бонус силы, ловкости и интеллекта."
+	
+	"STATS_GENERIC_UNCAPPED"										"Уровень этого талант дает дополнительный"
+	
+	"STATS_TYPE_ATTACK_DAMAGE"										"Урон"
+	"STATS_TYPE_COOLDOWN_REDUCTION"									"Уменьшение перезарядки"
+	"STATS_TYPE_SPELL_AMP"											"Усиление заклинаний"
+	"STATS_TYPE_ATTACK_SPEED"										"Скорость атаки"
+	"STATS_TYPE_STATUS_AMP"											"Усиление Статуса"
+	"STATS_TYPE_ACCURACY"											"Точность"
+	"STATS_TYPE_AREA_DAMAGE"										"Урон по облости"
+	
+	"STATS_TYPE_ATTACK_DAMAGE_Description"							"Увеличивает количество урона наносимое авто-атакой."
+	"STATS_TYPE_COOLDOWN_REDUCTION_Description"						"Снижает время восстановления всех ваших способностей. Стаки уменьшают уменьшение перезарядки."
+	"STATS_TYPE_SPELL_AMP_Description"								"Увеличивает количество урона, наносимого большинством заклинаний. Некоторые заклинания игнорируют усиление заклинаний."
+	"STATS_TYPE_ATTACK_SPEED_Description"							"Увеличивает скорость, с которой вы атакуете, ОГРАНИЧЕНО до 700."
+	"STATS_TYPE_STATUS_AMP_Description"								"Увеличивает продолжительность дебаффов и баффов, которые вы применяете. У негативных эффектов снижается длительность."
+	"STATS_TYPE_ACCURACY_Description"								"Дает шанс игнорировать уклончивость."
+	"STATS_TYPE_AREA_DAMAGE_Description"							"Всякий раз, когда вы наносите урон врагу с атаки или способности без свойства области эффекта, вы наносите процент урона от оригинала, равный вашему урону по области, всем другим врагам в радиусе 325 единиц. Этот эффект имеет время перезарядки 0,1 секунды. Урон по области уменьшается вдвое для дальних атак и заклинаний."
+	
+	"STATS_TYPE_ARMOR"												"Броня"
+	"STATS_TYPE_MAGIC_RESIST"										"Сопративление магии"
+	"STATS_TYPE_DAMAGE_BLOCK"										"Блокировка урона (60%)"
+	"STATS_TYPE_ATTACK_RANGE"										"Дальность атаки"
+	"STATS_TYPE_HEALTH"												"Здоровье"
+	"STATS_TYPE_HEALTH_REGEN"										"Регенирация здоровья"
+	"STATS_TYPE_STATUS_REDUCTION"									"Сопративление статуса"
+	
+	"STATS_TYPE_ARMOR_Description"									"Каждое очко брони уменьшает физический урон на 5%. Стаки уменьшаются."
+	"STATS_TYPE_MAGIC_RESIST_Description"							"Уменьшает магический урон на этот процент."
+	"STATS_TYPE_DAMAGE_BLOCK_Description"							"Дает 60% шанс заблокировать все источники урона за стоимость таланта."
+	"STATS_TYPE_ATTACK_RANGE_Description"							"Увеличивает дальность атаки, снижает значения для ближнего боя."
+	"STATS_TYPE_HEALTH_Description"									"Увеличивает ваше максимальное здоровье."
+	"STATS_TYPE_HEALTH_REGEN_Description"							"Увеличивает базовую скорость восстановления здоровья."
+	"STATS_TYPE_STATUS_REDUCTION_Description"						"Снижает продолжительность примененных к вам дебаффов."
+	
+	"RespecText"													"Respec"
+	
+	// ERRORS
+	"generic_relic_not_found"																				"Универсальный Ободок"
+	"generic_relic_not_found_Description"																	"Игра не смогла свернуть обычную реликвию и дала вам это вместо сбоя. Разве это не мило?"
+	
+	"cursed_relic_not_found"																				"Развратный Ободок"
+	"cursed_relic_not_found_Description"																	"Игра не смогла свернуть извращённую реликвию и дала вам это вместо сбоя. Разве это не мило?"
+	
+	"unique_relic_not_found"																				"Уникальный Ободок"
+	"unique_relic_not_found_Description"																	"Игра не смогла свернуть уникальную реликвию и дала вам это вместо сбоя. Разве это не мило?"
+	
+	// CURSED
+	"relic_adamantium_ingot"																				"Слиток Адамантия"
+	"relic_adamantium_ingot_Description"																	"Дает 30 брони, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает сопротивление магии на 50%."
+	
+	"relic_boiling_blood"																					"Кипящая Кровь"
+	"relic_boiling_blood_Description"																		"Пока вы находитесь рядом с врагами, вы наносите 2% от своего максимального здоровья как урон всем близлежащим врагам, однако эта реликвия <font color=\"maroon\">corrupted</font>, нанесит магический урон, равный 2% от вашего текущего здоровья в секунду во время активности.\n\nСаморазрушение-это не смертельно.\nНанесенный ущерб не основан на полученном ущербе."
+	
+	"relic_cursed_dice"																						"Проклятые Кости"
+	"relic_cursed_dice_Description"																			"Эта реликвия <font color=\"maroon\">corrupted</font>, удаляет все ваши текущие реликвии и даёт случайные реликвии, равные потерянной сумме.\nКаждая потерянная реликвия имеет 50% шанс дать дополнительную реликвию поверх замены."
+	
+	"relic_glass_flower"																					"Стеклянный Цветок"
+	"relic_glass_flower_Description"																		"Вы наносите двойной урон из всех источников, но эта реликвия <font color=\"maroon\">corrupted</font>, удваивает урон от всех источников."
+	
+	"relic_loaded_coin"																						"Заряженная Монета"
+	"relic_loaded_coin_Description"																			"У вас есть 70% шанс не получить никакого урона, но эта реликвия <font color=\"maroon\">corrupted</font>, заставляет вас принять тройной урон, если это не активировано."
+	
+	"relic_mysterious_stone"																				"Таинственный Камень"
+	"relic_mysterious_stone_Description"																	"Вы получаете блок заклинаний, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает сопротивление статуса на 50% (если вы опускаетесь ниже 0%, длительность дебаффа увеличивается).\nБлок заклинаний имеет перезарядку 12 секунду."
+	
+	"relic_pale_blood"																						"Бледная Кровь"
+	"relic_pale_blood_Description"																			"Вы получаете 30% вампиризма от всех источников, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает максимальное здоровье на 25%."
+	
+	"relic_paupers_finger"																					"Палец Нищего"
+	"relic_paupers_finger_Description"																		"Вы Получаете 100% больше опыта, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает получения золота из всех источников от 50%."
+	
+	"relic_phoenix_down"																					"Падший Феникс"
+	"relic_phoenix_down_Description"																		"Стоимость использования и перезарядка снижена до 0, но эта реликвия <font color=\"maroon\">corrupted</font>, только позволяет, пока кто-то воскрешает вас."
+	
+	"relic_red_key"																							"Красная Клавиша"
+	"relic_red_key_Description"																				"Предоставляет вам дополнительный выбор реликвии, но эта реликвия <font color=\"maroon\">corrupted</font> и всякий раз, когда вы пропускаете реликвию, вы теряете 50% своего максимального здоровья, пока не выберите реликвию."
+	
+	"relic_symbiote"																						"Симбионт"
+	"relic_symbiote_Description"																			"Вы получаете максимальный запас маны как максимальное здоровье, и вы получаете регенерацию маны перед усилением как регенерацию здоровья, но эта реликвия <font color=\"maroon\">corrupted</font> каждый раз, когда вы используете способность, вы тратите здоровье за стоимость маны (ЧИСТЫЙ урон). Этот урон может быть смертельным."
+	
+	"relic_the_pact"																						"Договор"
+	"relic_the_pact_Description"																			"Увеличивает урон от базовой атаки на 100% и дает 100% вампиризма. Однако, эта реликвия <font color=\"maroon\">corrupted</font> отключает все остальные источники исцеления, дополнительно вы теряете 33% магического сопротивления и 15 брони."
+	
+	"relic_titans_jawbone"																					"Челюсть Титана"
+	"relic_titans_jawbone_Description"																		"Ваше максимальное здоровье увеличено на 50%, но эта реликвия <font color=\"maroon\">corrupted</font> снижает урон от всех источников на 33%."
+	
+	"relic_giants_cudgel"																					"Дубина Великана"
+	"relic_giants_cudgel_Description"																		"Вы получаете 100% урона по облости и 35% бонусного урона от всех источников, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает увеличение скорости атаки на 40%."
+	
+	"relic_unstoppable_force"																				"Непреодолимая Сила"
+	"relic_unstoppable_force_Description"																	"Дарует вам макс.скорсоть передвижения, но эта реликвия <font color=\"maroon\">corrupted</font> снижает скорость поворота на 80%."
+	
+	"relic_battle_brew"																						"Боевой Напиток"
+	"relic_battle_brew_Description"																			"Увеличивает появление угроз на 50%, дает вам 30 силы и 80 скорости атаки, но эта реликвия <font color=\"maroon\">corrupted</font> ослепляет вас на 20%."
+	
+	"relic_first_sin"																						"Первый Грех"
+	"relic_first_sin_Description"																			"Эта реликвия <font color=\"maroon\">corrupted</font>, дразня всех врагов и не давая тебе стать невидимым.."
+	
+	"relic_crystal_skull"																					"Хрустальный Череп"
+	"relic_crystal_skull_Description"																		"Вы постоянно невидимы, пока нет врагов в радиусе 450 . Эта реликвия <font color=\"maroon\">corrupted</font>, установливает значение брони и магического сопротивления от максимума до 0 и главнее других форм невидимости."
+	
+	"relic_hushpuppy"																						"Хашпаппи"
+	"relic_hushpuppy_Description"																			"При попадании в цель заклинанием вы даёте врагу безмолвие на 6 секунд, однако эта реликвия <font color=\"maroon\">corrupted</font>, если вы используете способность, пока эффект активен, вам даст безмолвие на 3 секунды.\nЭтот эффект может происходить только каждые 15 секунд."
+	
+	"relic_unchanging_globe"																				"Неизменный Глобус"
+	"relic_unchanging_globe_Description"																	"По завершении использования способности оставшееся время перезарядки будет установлено на 9; независимо от уменьшения перезарядки. Эта реликвия <font color=\"maroon\">corrupted</font>, снижает максимальныйй запас маны на 80% и регенерацию маны на 50%."
+	
+	"relic_bloody_silk"																						"Кровавый Шелк"
+	"relic_bloody_silk_Description"																			"Wвсякий раз, когда вы исцеляете союзника, вы исцеляете ещё 50 дополнительного здоровья , однако эта реликвия <font color=\"maroon\">corrupted</font> наносит вам 20 чистого урон."
+
+	"relic_hungry_blade"																					"Голодный Клинок"
+	"relic_hungry_blade_Description"																		"Предоставляет 100 бонусного урона и 100 скорости атаки, но эта реликвия <font color=\"maroon\">corrupted</font> снижает скорость передвижения на 15% , и если вы не атаковали какого-нибудь врага за последние 6 секунд, вы потеряете 5% максимального здоровья в секунду.\nПовреждения нелетальным."
+	
+	"relic_delirious_cowl"																					"Бредовый Капюшо"
+	"relic_delirious_cowl_Description"																		"При использовании способности оставшееся время перезарядки будет установлено на случайное значение между 10% и его перезарядкой. Эта реликвия <font color=\"maroon\">corrupted</font>, сокращает уменьшение перезарядки на 50%."
+	
+	"relic_whale_heart"																						"Сердце Кита"
+	"relic_whale_heart_Description"																			"Увеличивает регенерацию здоровья 50% пока в воде, но эта реликвия <font color=\"maroon\">corrupted</font> снижает регенерацию здоровья на 50% на земле."
+	
+	"relic_demon_wings"																						"Крылья Демона"
+	"relic_demon_wings_Description"																			"Вы получаете летающее движение и аура радиуса 300, которая наносит 100% основной атрибут как урон, но эта реликвия <font color=\"maroon\">corrupted</font> снижает скорость передвижения на 33%."
+	
+	"relic_immaculate_staff"																				"Безупречный Персонал"
+	"relic_immaculate_staff_Description"																	"Вы получаете 40% уменьшения перезарядки, но эта реликвия <font color=\"maroon\">corrupted</font> при расходовании маны вы берете 75% от стоимости маны как чистый урон.\nЭтот урон не смертельный."
+	
+	"relic_icon_of_pride"																					"Икона гордости"
+	"relic_icon_of_pride_Description"																		"Вы получаете + 40 каждого атрибута, но эта реликвия <font color=\"maroon\">corrupted</font>, предотвращает получения реликвий в будущем."
+	
+	"relic_icon_of_sloth"																					"Икона ленивца"
+	"relic_icon_of_sloth_Description"																		"Вы не можете быть убиты атакованы, пока ваше текущее здоровье составляет более 10% от вашего максимального здоровья, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает скорость передвижения на 50%."
+	
+	"relic_icon_of_greed"																					"Икона жадности"
+	"relic_icon_of_greed_Description"																		"Золото вы получаемое из всех источников увеличивается на 100%, но эта реликвия <font color=\"maroon\">corrupted</font>, предотвращает получения реликвий в будущем."
+	
+	"relic_icon_of_wrath"																					"Икона гнева"
+	"relic_icon_of_wrath_Description"																		"Каждый раз, когда вы атакованы, вы имеете дело с 80% первичным атрибутом атакующего; но эта реликвия <font color=\"maroon\">corrupted</font>, увеличивает урон от всех источников на 25%."
+	
+	"relic_icon_of_gluttony"																				"Икона чревоугодия"
+	"relic_icon_of_gluttony_Description"																	"Вы восстанавливаете 15% своего максимального здоровья и максимальной маны после убийства босса и 1% после убийства миньона, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает регенерацию здоровья и маны на 25%."
+	
+	"relic_icon_of_lust"																					"Икона похоти"
+	"relic_icon_of_lust_Description"																		"Враги в радиусе 350 имеют 15% шанс исцелить вас вместо того, чтобы повредить вам за нанесенный урон, но эта реликвия <font color=\"maroon\">corrupted</font> снижает максимальное здоровье на 20%."
+	
+	"relic_icon_of_envy"																					"Икона зависти"
+	"relic_icon_of_envy_Description"																		"Вы получаете + 5 ко всем статистикам каждый раз, когда вы пропускаете реликвию, но эта реликвия <font color=\"maroon\">corrupted</font>, уменьшает все атрибуты на 15."
+	
+	"relic_mask_of_janus"																					"Маска Януса"
+	"relic_mask_of_janus_Description"																		"Эта реликвия <font color=\"maroon\">corrupted</font>, удаляет реликвии случайным образом и добавляет случайную новую в конце каждого раунда.\nНе может удалить себя."
+	
+	"relic_heavy_tome"																						"Тяжелый Том"
+	"relic_heavy_tome_Description"																			"Удваивает интеллект пользователя, но эта реликвия <font color=\"maroon\">corrupted</font>, замедляет на 2% за отсутствия 1% маны.\nВсегда замедляет по крайней мере на 10%."
+	
+	"relic_thorned_bandages"																				"Колючие Повязки"
+	"relic_thorned_bandages_Description"																	"Дарует вам 200% уселения исциления, но эта реликвия <font color=\"maroon\">corrupted</font> всякий раз, когда вы исцеляете кого-то, они также берут 100% первоначального исцеления, предоставленного как чистый урон в течение 30 секунд."
+	
+	"relic_archmages_reliquary"																				"Реликварий архимага"
+	"relic_archmages_reliquary_Description"																	"Вы Получаете 25% уменьшения перезарядки и 75% усиление заклинаний, но эта реликвия <font color=\"maroon\">corrupted</font>, <font color=\"red\"> ОБЕЗОРУЖИВАЕТ ВАС, НЕ ДАВАЯ НАПАСТЬ.</font> и снижает броню на 40."
+	
+	"relic_crimson_gauntlet"																				"Малиновый Перчатку"
+	"relic_crimson_gauntlet_Description"																	"Ваше максимальное здоровье увеличено на 60%, но эта реликвия <font color=\"maroon\">corrupted</font> даёт врагам, атакующие вас, имеют 25% шанс нанести 300% критического урона."
+	
+	"relic_ritual_kris"																						"Ритуальный Крис"
+	"relic_ritual_kris_Description"																			"Дает вам 10% шанс нанести 360% критического урона, но эта реликвия <font color=\"maroon\">corrupted</font> каждый раз, когда критический удар активируется, вы берете 10% своего текущего здоровья как чистый урон."
+	
+	"relic_tortoise_greatshield"																			"Большой Щит черепахи"
+	"relic_tortoise_greatshield_Description"																"Дарует сопротивление статуса 50%, но эта реликвия <font color=\"maroon\">corrupted</font> снижает усиления статуса на 50%."
+	
+	"relic_iron_maiden"																						"Железная дева"
+	"relic_iron_maiden_Description"																			"Урон, который вы принимаете, исцеляет всех ваших союзников, кроме вас, но эта реликвия <font color=\"maroon\">corrupted</font> увеличивает урон от всех источников на 50%."
+	
+	"relic_grey_fox_tunic"																					"Туника серой лисы"
+	"relic_grey_fox_tunic_Description"																		"Вы получаете 2 золота каждый раз, когда вы наносите атаки, но эта реликвия <font color=\"maroon\">corrupted</font> уменьшает броню на 10 и уклонение на 15%."
+	
+	"relic_false_idol"																						"Ложный Идол"
+	"relic_false_idol_Description"																			"Вы получает 900 дальности применения способностей, но эта реликвия <font color=\"maroon\">corrupted</font>, нанесёт магического урона вам равно 20% от расстояния, которое вы пройдёте."
+	
+	"relic_torn_prayer_card"																				"Разорванная Молитвенная Карточка"
+	"relic_torn_prayer_card_Description"																	"Всякий раз, когда вы получаете урон, мана уменьшается на сумму урона до получения его. Эта реликвия <font color=\"maroon\">corrupted</font>, если у вас меньше маны, чем требуется, чтобы полностью заблокировать урон, урон, который вы берете, увеличивается на 100%."
+	
+	"relic_apple_of_eden"																					"Яблоко Эдема"
+	"relic_apple_of_eden_Description"																		"Вы получаете 100% усиления исциления, но эта реликвия <font color=\"maroon\">corrupted</font>, снижает урон от всех источников на 33%."
+	
+	"relic_olive_branch"																					"Щливковая ветвь"
+	"relic_olive_branch_Description"																		"Вы получаете 300 золота при прохождении раунда, не умирая, но эта реликвия <font color=\"maroon\">corrupted</font>, забирает 150 золота, если вы умерли во время раунда."
+	
+	"relic_eye_of_the_oligarch"																				"Глаз олигарха"
+	"relic_eye_of_the_oligarch_Description"																	"Радиус вашего зрения увеличивается за каждое ваше золота, базового радиуса дневного и ночного видения. Эта реликвия <font color=\"maroon\">corrupted</font>, уменьшает диапазон вашего зрения, если ваше золото ниже их базовой стоимости."
+	
+	"relic_forbidden_contract"																				"Запрещенный Контракт"
+	"relic_forbidden_contract_Description"																	"Эта реликвия <font color=\"maroon\">corrupted</font>, заставляет каждую реликвию, которую вы найдете, после того, как подобрали эту реликвию, быть проклятой."
+	
+	"relic_unbridled_power"																					"Неограниченная Власть"
+	"relic_unbridled_power_Description"																		"Весь урон, который вы наносите, имеет свой тип урона, установленный на чистый урон, но эта реликвия <font color=\"maroon\">corrupted</font>, устанавливает все типы урона, нанесенного вам, на чистый урон."
+	
+	"relic_evil_eye_amulet"																					"Амулет Сглаза"
+	"relic_evil_eye_amulet_Description"																		"Вы получаете видение всех врагов, но это реликвия <font color=\"maroon\">corrupted</font>, дарует всем врагам видение о тебе."
+	
+	"relic_mimic_chest"																						"Мимическая Грудь"
+	"relic_mimic_chest_Description"																			"После возвышения, предоставляет вам совершенно случайную реликвию.\nЭто включает в себя реликвии, обычно не приобретаемые, как реликвии событий. Пренебрегает весами редкости. Эта реликвия <font color=\"maroon\">corrupted</font>, предупреждает о пропуске реликвий."
+	
+	// UNIQUE
+	"relic_aghanims_amulet"																					"Амулет Аганима"
+	"relic_aghanims_amulet_Description"																		"Даёт навсегда эффект Aghanim's Scepter."
+	
+	"relic_frozen_crystal"																					"Замороженный Кристалл"
+	"relic_frozen_crystal_Description"																		"Каждый раз, когда вы бросаете способность, вы охлаждаете всех врагов в радиусе 425 от вас на 15% в течение 15 секунд."
+	
+	"relic_limit_breaker"																					"Концевой Выключатель"
+	"relic_limit_breaker_Description"																		"Увеличивает лимит скорости атаки на 600 и вы получаете 1 бонус к скорости атаки каждую секунду, пока вы находитесь в боевом раунде. Скорость атаки сбрасывается, когда раунд заканчивается."
+	
+	"relic_molten_crystal"																					"Расплавленный Кристалл"
+	"relic_molten_crystal_Description"																		"Каждый раз, когда вы используете способность, вы создаете бассейн лавы на цели.\nБассейны лавы наносит 100% вашего основного атрибута в качестве урона каждую секунду в течение 8 секунд в радиусе 250.\nЛаву можно создавать только один раз в 8 секунд."
+	
+	"relic_mysterious_hourglass"																			"Таинственные Песочные Часы"
+	"relic_mysterious_hourglass_Description"																"Всякий раз, когда вы получаете новую реликвию и решаете пропустить реликвии, вы вместо этого получаете 3 новых реликвии. Эта реликвия становится неактивной после активации 3 раза."
+	
+	"relic_perpetuum_mobile"																				"Вечный двигатель"
+	"relic_perpetuum_mobile_Description"																	"Потратив ману, вы получаете 10 маны."
+	
+	"relic_rage_enhancer"																					"Усилитель Ярости"
+	"relic_rage_enhancer_Description"																		"Получение урона от любого источника увеличивает вашу силу на 1 в течение 25 секунд.\nИмеет 0.2 секунд перезарядки."
+	
+	"relic_rapid_totem"																						"Быстрый Тотем"
+	"relic_rapid_totem_Description"																			"Вы получаете 50% уменьшения перезарядки, но потерять 50% усиления статуса и ваши заклинания наносят на 40% меньше урона.\nСтаки перезарядки способностей работают и с предметами."
+	
+	"relic_rolling_boulder"																					"Прокатки Валун"
+	"relic_rolling_boulder_Description"																		"Каждая атака увеличивает вашу ловкость на 1 в течение 15 секунд."
+	
+	"relic_rotting_flesh"																					"Гниющая плоть"
+	"relic_rotting_flesh_Description"																		"Ты воскрешаешься через 30 секунд после смерти.."
+	
+	"relic_rusty_dumbbell"																					"Ржавая Гантель"
+	"relic_rusty_dumbbell_Description"																		"После принятия этой реликвии, вы получаете 2 очков навыков."
+			
+	"relic_sacrificial_dagger"																				"Жертвенный Кинжал"
+	"relic_sacrificial_dagger_Description"																	"Умирая с этой реликвией, вы оживляете мертвых союзников и исцеляете живых союзников в полной мере. Можно использовать только один раз на рейд."
+	
+	"relic_ornate_timepiece"																				"Витиеватые Часы"
+	"relic_ornate_timepiece_Description"																	"Удаляет очки улучшений для всех способностей."
+	
+	"relic_silent_cloak"																					"Безмолвный Плащ"
+	"relic_silent_cloak_Description"																		"Уменьшает получения угрозы на 100%"
+	
+	"relic_oath_of_purity"																					"Клятва чистоты"
+	"relic_oath_of_purity_Description"																		"Вы получаете +10 ко всем статистикам за каждый дебафа, применяемого к вам."
+	
+	"relic_vampire_eye"																						"Глаз Вампира"
+	"relic_vampire_eye_Description"																			"Дарует вам глобальной обзор в ночное время."
+	
+	"relic_hawks_eye"																						"Ястребиный глаз"
+	"relic_hawks_eye_Description"																			"Дарует вам глобальной обзор в дневное время."
+	
+	"relic_grain_of_sand"																					"Песчинка"
+	"relic_grain_of_sand_Description"																		"Каждые 15 секунд будет обновляться случайная способность."
+	
+	"relic_memory_alloy"																					"Сплав Памяти "
+	"relic_memory_alloy_Description"																		"После получения урона вы исцеляете 100% от урона, нанесенного за 40 секунд."
+	
+	"relic_a_nickel"																						"Никель"
+	"relic_a_nickel_Description"																			"Дарует вам 1500 золотых при получении этой реликвии."
+	
+	"relic_galactic_synapse"																				"Галактический Синапс"
+	"relic_galactic_synapse_Description"																	"Вы получаете 10 интеллект в течение 30 секунд, когда вы используете способность."
+	
+	"relic_champions_belt"																					"Чемпионский пояс"
+	"relic_champions_belt_Description"																		"Увеличивает силу и ловкость на 20%"
+	
+	"relic_soldiers_banner"																					"Солдатское Знамя"
+	"relic_soldiers_banner_Description"																		"Превращает вас в героя БЛИЖНЕГО боя, предоставляет вам 6 бонусных брои и 15% бонусной скорости передвижения. Ваш базовый диапазон атаки будет уменьшен до 150."
+	
+	"relic_longbow"																							"Лук"
+	"relic_longbow_Description"																				"Превращает вас в ДАЛЬНЕГО героя и предоставляет вам + 200 дальность атаки."
+	
+	"relic_pocket_sand"																						"Карманный Песок"
+	"relic_pocket_sand_Description"																			"После получения урона вы телепортируетесь на 300 единиц от источника урона.\nАтакующий получает 250% от вашего основного атрибута в качестве урона.\nЭтот эффект может происходить только каждые 12 секунд."
+	
+	"relic_eldritch_rune"																					"Элдрич Руна"
+	"relic_eldritch_rune_Description"																		"Физический урон, нанесенный вами, станет магическим уроном..\nМагический урон, нанесенный вами, станет физическим уроном.."
+	
+	"relic_eagles_beak"																						"Орлиный Клюв"
+	"relic_eagles_beak_Description"																			"Даёт атаки без промохов."
+	
+	"relic_deathrow"																						"Группы"
+	"relic_deathrow_Description"																			"Дает 20% шанс нанести 200% критического урона. Критический урон увеличивается на 10% на каждого убитого босса. Каждые 10 убийств босса, эта реликвия потребует одного дополнительного убийства босса, чтобы увеличить его мощность."
+	
+	"relic_hylophage"																						"Hylophage"
+	"relic_hylophage_Description"																			"Каждые 12 секунд потребляет дерево, если дерево было успешно потреблено предоставляет 20 восстановления здоровья в секунду."
+	
+	"relic_chlorophyl_cloak"																				"Плащ Хлорофилл"
+	"relic_chlorophyl_cloak_Description"																	"Вы получаете 15% скорость передвижения, 10 броня и 15% сопротивление магии в дневное время."
+	
+	"relic_anaerobic_ring"																					"Анаэробное Кольцо"
+	"relic_anaerobic_ring_Description"																		"Вы получаете 2% регенирации здоровья ночью"
+	
+	"relic_hestias_hearth"																					"Очага Гестия"
+	"relic_hestias_hearth_Description"																		"Вы получаете ауру, которая исцеляет всех союзников на 10 здоровья в секунду"
+	
+	"relic_spirit_painting"																					"Картина Духа"
+	"relic_spirit_painting_Description"																		"Каждые 10 секунд случайный враг принимает 250% первичного атрибута в качестве урона; если враг произносил заклинание, он будет заглушен, и Вы получаете 25% усиления заклинания до следующего цикла."
+	
+	"relic_charons_obol"																					"Обол Харона "
+	"relic_charons_obol_Description"																		"Получив смертельный урон, вы становитесь неуязвимым в течение 5 секунд. Этот эффект имеет перезарядку 35 секунд."
+	
+	"relic_kashas_wheelbarrow"																				"Тележка Касши"
+	"relic_kashas_wheelbarrow_Description"																	"Каждый раунд, завершенный этой реликвией, дает 5 скорости передвижений и 10 скорости атаки."
+	
+	"relic_inversion_stone"																					"Инверсионный Камень"
+	"relic_inversion_stone_Description"																		"Ваш базовый урон увеличивается в среднем не на основных атрибутов."
+		
+	"relic_lunar_needle"																					"Лунная Игла"
+	"relic_lunar_needle_Description"																		"Исцеляет всех союзников в радиусе 900 от цели атаки на 15% от вашего урона ."
+	
+	"relic_ritual_candle"																					"Ритуальная Свеча"
+	"relic_ritual_candle_Description"																		"Устраняет негативные эффекты от реликвий."
+	
+	"relic_cold_heart"																						"Холодное сердце"
+	"relic_cold_heart_Description"																			"Дарует ауру, которая замедляет скорость движения всех близлежащих врагов на 20% и их скорость атаки на 50."
+	
+	"relic_shopkeepers_heart"																				"Сердце лавочника"
+	"relic_shopkeepers_heart_Description"																	"Вы получаете 150 золото и опыт каждый завершен раунд."
+	
+	"relic_rex_dominatur"																					"Рекс Доминатор"
+	"relic_rex_dominatur_Description"																		"Вы наносите 25% дополнительного урона от всех источников урона по Небесным врагов."
+	
+	"relic_sharp_machete"																					"Острое Мачете"
+	"relic_sharp_machete_Description"																		"Вы наносите 25% дополнительного урона от всех источников урона по Диким врагов."
+	
+	"relic_gazaer_tirdh"																					"Gazaer Tirdh"
+	"relic_gazaer_tirdh_Description"																		"Вы наносите 25% дополнительного урона от всех источников урона по Демонам врагов."
+		
+	"relic_chainsword"																						"Цепной меч"
+	"relic_chainsword_Description"																			"Вы наносите 25% дополнительного урона от всех источников урона по Нежити врагов."
+			
+	"relic_antique_pouch"																					"Старинные Мешок"
+	"relic_antique_pouch_Description"																		"Вы получаете +3 всех характеристик для каждой реликвии.\nНе считает себя."
+	
+	"relic_ofuda"																							"Офуда"
+	"relic_ofuda_Description"																				"После восхождения, будет очищать до 3 проклятых реликвий. Если было удалено менее 3, оставшиеся заряды будут сохранены для удаления будущих проклятий."
+	
+	"relic_plasma_ball"																						"Плазменный шар"
+	"relic_plasma_ball_Description"																			"Владелец отправляет электрические молнии, которые наносят 225 урона каждые 2 секунды. Радиус поиска Zaps'a зависит от расстояния, пройденного пользователем с момента последнего Zap'a."
+	
+	"relic_silver_knife"																					"Серебряный нож"
+	"relic_silver_knife_Description"																		"Предоставляет дополнительный урон +15 за каждый бафф, который наносит вам урон."
+	
+	"relic_reinforced_bar"																					"Арматурный стержень"
+	"relic_reinforced_bar_Description"																		"Предоставляет +2 брони для каждого баффа, который предоставляет физическую броню."
+	
+	"relic_drycicle"																						"Сушилка"
+	"relic_drycicle_Description"																			"Каждая атака применяет 10 стаков холода, замедляя скорость передвижения противника и замораживая их, если они получили 100 стаков холода."
+	
+	"relic_nautical_scale"																					"Масштаб Морских"
+	"relic_nautical_scale_Description"																		"Предоставляет +8 брони, 20% сопротивления магии и 10% уклонения в воде."
+		
+	"relic_mystical_coral"																					"Мистический Коралл"
+	"relic_mystical_coral_Description"																		"Предоставляет 25% уселения способностей и 15% уменьшения расхода маны в воде."
+	
+	"relic_prismarine_blade"																				"Лезвие Prismarine"
+	"relic_prismarine_blade_Description"																	"Предоставляет 80 урона и 80 скорости атаки в воде"
+	
+	"relic_slayers_skinner"																					"Скиннер истребительницы"
+	"relic_slayers_skinner_Description"																		"Предоставляет +10% бонусного урона от всех источников урона для всех типов врагов."
+	
+	"relic_greased_wheel"																					"Смазанное Колесо"
+	"relic_greased_wheel_Description"																		"Вам больше не нужно поворачиваться при использовании способностей."
+	
+	"relic_red_pill"																						"Красная таблетка"
+	"relic_red_pill_Description"																			"Предоставляет статус иммунитета, что означает оглушение, разоружение, корни, безмолвие, перерыв, заклятие и замедление больше не влияет на вас."
+	// GENERIC
+	"relic_angelic_water"																					"Ангельская Вода"
+	"relic_angelic_water_Description"																		"Предоставляет 10 маны регенирации."
+	
+	"relic_banshee_tear"																					"Слезы Банши"
+	"relic_banshee_tear_Description"																		"Предоставляет 500 маны и 1 ману регенирацию."
+	
+	"relic_beast_fang"																						"Клык Зверя"
+	"relic_beast_fang_Description"																			"Предоставляет 40 урона и 40 скорости атаки."
+	
+	"relic_blood_crystal"																					"Кристалл Крови"
+	"relic_blood_crystal_Description"																		"Предоставляет 10 регенирации здоровья."
+	
+	"relic_dead_mans_blood"																					"Кровь Мертвеца"
+	"relic_dead_mans_blood_Description"																		"Предоставляет 400 бонусного здоровья."
+	
+	"relic_giants_toenail"																					"Ноготь великана"
+	"relic_giants_toenail_Description"																		"Предоставляет 25% сопротивление статусу."
+	
+	"relic_hammerhead"																						"Молот"
+	"relic_hammerhead_Description"																			"Предоставляет 80 урона."
+	
+	"relic_pure_heart"																						"Чистое Сердце"
+	"relic_pure_heart_Description"																			"Предоставляет 10 каждого атрибута."
+	
+	"relic_seraphims_feather"																				"Сердце Серафима"
+	"relic_seraphims_feather_Description"																	"Предоставляет 60 бонусного скорости передвижения."
+	
+	"relic_silver_arrow"																					"Серебряная стрела"
+	"relic_silver_arrow_Description"																		"Предоставляет 100 дальности атаки (50 для ближних героев) и 35 урона."
+	
+	"relic_time_shard"																						"Осколок Времени"
+	"relic_time_shard_Description"																			"Предоставляет 15% уменьшения перезарядки."
+	
+	"relic_unicorn_horn"																					"Рог Единорога"
+	"relic_unicorn_horn_Description"																		"Предоставляет 20 скорости передвижения и  25% уселения способностей."
+	
+	"relic_breath_of_life"																					"Дыхание жизни"
+	"relic_breath_of_life_Description"																		"Предоставляет 200 здоровья и маны, 3 регенирации здоровья и маны."
+	
+	"relic_horn_of_bannermen"																				"Рог знаменосцев"
+	"relic_horn_of_bannermen_Description"																	"Предоставляет 25 бонусной ловкости."
+
+	"relic_helm_of_justice"																					"Шлем правосудия"
+	"relic_helm_of_justice_Description"																		"Предоставляет 25 бонусной силы."
+	
+	"relic_crown_of_power"																					"Венец власти"
+	"relic_crown_of_power_Description"																		"Предоставляет 25 бонусного интеллекта."
+	
+	"relic_haste_stone"																						"Торопливый Камень"
+	"relic_haste_stone_Description"																			"Предоставляет 80 скорости атаки."
+	
+	"relic_tanned_hide"																						"Дубленая Шкура"
+	"relic_tanned_hide_Description"																			"Предоставляет 5 бонусной брони."
+	
+	"relic_arcane_threads"																					"Тайные Нити"
+	"relic_arcane_threads_Description"																		"Предоставляет 15% сопротивления магии"
+	
+	"relic_fog_lace"																						"Кружево Тумана"
+	"relic_fog_lace_Description"																			"Предоставляет 15% уклонения"
+	
+	"relic_draculine_tooth"																					"Зуб Дракулины"
+	"relic_draculine_tooth_Description"																		"Каждый раз, когда вы атакуете, вы восстановливаете 20 здоровья."
+	
+	"relic_worn_spear"																						"Носить Копье"
+	"relic_worn_spear_Description"																			"Предоставляет 100 бонусной дальности атаки, работает для героев ближнего боя."
+	
+	"relic_old_sickle"																						"Старый Серп"
+	"relic_old_sickle_Description"																			"Предоставляет 25% урона по области."
+	
+	"relic_broken_mirror"																					"Разбитое зеркало"
+	"relic_broken_mirror_Description"																		"Увеличивает дальность применения на 150."
+	
+	"relic_champions_spearhead"																				"Наконечник копья чемпиона"
+	"relic_champions_spearhead_Description"																	"Увеличивает скорость атаки снаряда на 1000."
+	
+	"relic_katana"																							"Катана"
+	"relic_katana_Description"																				"Предоставляет шансом 20% нанести критический урон в размере 150%"
+	
+	"relic_stick"																							"Палка"
+	"relic_stick_Description"																				"Предоставляет +1 урон."
+	
+	"relic_stick2"																							"Начинающим Веточку"
+	"relic_stick2_Description"																				"Предоставляет +75 урона."
+	
+	"relic_stick3"																							"Цветущая Ветвь"
+	"relic_stick3_Description"																				"Предоставляет +150 урона."
+	
+	"relic_stick4"																							"Плотная Дубина"
+	"relic_stick4_Description"																				"Предоставляет +300 урона."
+	
+	"relic_stick5"																							"Дубовые Великие брёвна"
+	"relic_stick5_Description"																				"Предоставляет +600 урона."
+	
+	"relic_mystic_gauntlet"																					"Мистическая Перчатка"
+	"relic_mystic_gauntlet_Description"																		"Предоставляет 3 брони и 9% магического сопротивления"
+	
+	"relic_power_glove"																						"Силовая Перчатка"
+	"relic_power_glove_Description"																			"Предоставляет 3 брони и 20 урона."
+	
+	"relic_dragon_scales"																					"Чешуя Дракона"
+	"relic_dragon_scales_Description"																		"Предоставляет  15% усиления способностей и 40 урона."
+	
+	"relic_ifrit_tear"																						"Слеза Ифрита"
+	"relic_ifrit_tear_Description"																			"Предоставляет 15% усиления способностей и 4 регенирации здоровья."
+	
+	"relic_scythegeist"																						"Scythegeist"
+	"relic_scythegeist_Description"																			"Предоставляет 8% уменьшения перезорядки и 35 урона."
+	
+	"relic_barbedbell"																						"Барбедбелл"
+	"relic_barbedbell_Description"																			"Предоставляет 10 силы и при получении урона вы наносите 35 физического урона нападающему."
+	
+	"relic_stone_fist"																						"Каменный Кулак"
+	"relic_stone_fist_Description"																			"Предоставляет +20% усиление угрозы."
+	
+	"relic_spinning_top"																					"Волчок"
+	"relic_spinning_top_Description"																		"Уменьшает базовое время атаки на 0,15."
+	
+	"relic_tiger_blood"																						"Кровь Тигра"
+	"relic_tiger_blood_Description"																			"Предоставляет +20% уселения исциления"
+	
+	"relic_heavy_rock"																						"Тяжелый рок"
+	"relic_heavy_rock_Description"																			"Предоставляет 15% уселения исциления."
+	
+	"relic_amplifier"																						"Усилитель"
+	"relic_amplifier_Description"																			"Предоставляет 10% уселения исциления and 20% усиления способностей."
+	
+	"relic_rich_essence"																					"Богатая Сущность"
+	"relic_rich_essence_Description"																		"Предоставляет 10% уселения исциления и 10% усиления способностей."
+	
+	"relic_ethereal_gown"																					"Сверхъестественное Платье"
+	"relic_ethereal_gown_Description"																		"Предоставляет 8% уклонения, 8% сопротивление магии и 2 брони."
+	
+	"relic_ectoplasm"																						"Эктоплазма"
+	"relic_ectoplasm_Description"																			"Предоставляет 6 регенирации здоровья и маны."
+	
+	"relic_bowl_of_chi"																						"Чаша Ци"
+	"relic_bowl_of_chi_Description"																			"Предоставляет 15% сопротивления статуса и 15% усиление статуса."
+	
+	"relic_stone_calendar"																					"Каменный Календарь"
+	"relic_stone_calendar_Description"																		"Предоставляет 4 брони и 15% сопротивления статуса."
+	
+	"relic_dull_razor"																						"Тупая Бритва"
+	"relic_dull_razor_Description"																			"Предоставляет 25 урона и 15 ловкости."
+	
+	"relic_torn_muscle"																						"Порванная Мышца"
+	"relic_torn_muscle_Description"																			"Предоставляет 200 здоровья и 15 силы."
+	
+	"relic_pickled_brain"																					"Маринованный Мозг"
+	"relic_pickled_brain_Description"																		"Предоставляет 200 Мана и 15 интеллект."
+	
+	"relic_drop_of_all"																						"Все Капли"
+	"relic_drop_of_all_Description"																			"Предоставляет 5 ко всем характеристикам, 10 скорости движения, скорости атаки и урона атаки, 100 здоровья и маны и 1 регенерации здоровья и маны."
+	
+	"relic_scrap_of_paper"																					"Клочок бумаги"
+	"relic_scrap_of_paper_Description"																		"Предоставляет 3 брони и 12% суменьшения перезарядки."
+	
+	"relic_dry_quill"																						"Сухое Перо"
+	"relic_dry_quill_Description"																			"Предоставляет 15 Скорость атаки, 15 урон от атаки и 8% уменьшения перезарядки."
+	
+	"relic_leather_buckler"																					"Кожаная Пряжка"
+	"relic_leather_buckler_Description"																		"Дает 60% шанс заблокировать 20 урона. Урон блокирует все формы урона после уменьшений."
+	
+	"relic_weighted_gloves"																					"Утяжеленные Перчатки"
+	"relic_weighted_gloves_Description"																		"Увеличивает лимит скорости атаки на 100 и скорость атаки увеличивается на 20."
+	
+	"relic_feathered_boots"																					"Сапоги С Перьями"
+	"relic_feathered_boots_Description"																		"Увеличивает ограничение скорости передвижения на 100 и даёт 35 скорости движения."
+}
